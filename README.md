@@ -1,5 +1,5 @@
 # TripleSS
-Triple Suggestion System - a National Institute of Informatics project
+Triple Suggestion System - a National Institute of Informatics project..
 
 # INDEX
 
